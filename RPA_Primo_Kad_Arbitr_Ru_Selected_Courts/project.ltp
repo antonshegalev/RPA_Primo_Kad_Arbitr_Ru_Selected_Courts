@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Project>
+        <Name>Долги за 3 мес</Name>
+        <TypeSort>1</TypeSort>
+        <OrchId>0</OrchId>
+        <Description>1 этап
+
+https://kad.arbitr.ru/
+АС Челябинской области
+Данные за 3 мес
+Берем по неделе
+
+Кажд неделю в пон запускаем
+
+16.04.2024
+Решения и постановления
+
+если даты нет, то в реестр не вкл.
+если решения нет чел не банкрот
+</Description>
+    </Project>
+    <RunConfig>None</RunConfig>
+    <RobotEdition>Enterprise</RobotEdition>
+</LTProjectRoot>

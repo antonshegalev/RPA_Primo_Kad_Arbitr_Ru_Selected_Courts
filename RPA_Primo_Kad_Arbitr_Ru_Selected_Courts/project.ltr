@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts>
+        <WatchScript>
+            <Script>tableConfig.Rows[1][1].ToString()</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>tableConfig.Rows[3][1].ToString()</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>(int) DateTime.Now.DayOfWeek</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>DateTime.Now.DayOfWeek</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>(Convert.ToInt16(DateTime.Now.DayOfWeek))</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>dateTek.ToString("ddMMyyyy")</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>hrefs[i21211]</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>itemDT[3]</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>logBankrupt</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>itemDT</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>totalSumBankrupt</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>totalAllBankrupt</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>System.IO.Directory.GetCurrentDirectory()</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>currentCourts</Script>
+        </WatchScript>
+    </WatchScripts>
+    <Ignored>
+        <KeyValueItem>
+            <Key>C:\Users\User\Documents\Primo\Kredit\Долги за 3 мес\Main.ltw</Key>
+            <Value>c1871257-5be1-4d8b-aac6-c7809bca5c2d</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\User\Documents\Primo\Kredit\Долги за 3 мес\Main.ltw</Key>
+            <Value>63c20c2a-e9b6-4ce1-bb67-488c36cc9d93</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints />
+    <BreakpointLines />
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\User\Documents\Primo\Kredit\Долги за 3 мес\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
